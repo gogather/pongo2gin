@@ -1,4 +1,4 @@
-module pongo2gin
+module github.com/gogather/pongo2gin
 
 go 1.14
 
